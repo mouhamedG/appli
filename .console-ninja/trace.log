@@ -1,0 +1,1343 @@
+14:45:58.508 info extension stopping host
+14:46:03.134 info extension stopping host
+14:46:03.521 info host ------------ starting ------------
+14:46:03.546 info extension host process output: port:[57254]
+14:46:03.546 info extension 
+14:46:03.574 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 57254 }
+14:46:03.706 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\fitec\\monnouveauprojet\\css\\js\\app.js","reason":"search"},{"path":"c:\\Users\\FITEC\\monNouveauProjet\\index.html","reason":"open"},{"path":"c:\\Users\\FITEC\\monNouveauProjet\\css\\js\\app.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1717073163137}
+14:46:03.718 info host worker Starting Host Worker...
+14:46:03.726 info host starting tools discovery and integration
+14:46:03.727 info host creating C:\Users\FITEC\.console-ninja\.bin
+14:46:03.731 info host installing C:\Users\FITEC\.console-ninja\.bin\loader.js
+14:46:03.734 info host installing C:\Users\FITEC\.console-ninja\.bin\console-ninja.ps1
+14:46:03.736 info host installing C:\Users\FITEC\.console-ninja\.bin\console-ninja.cmd
+14:46:03.737 info host installing PATH C:\Users\FITEC\.console-ninja\.bin
+14:46:04.532 info host looking for tools to patch
+14:46:04.547 info host found 0 tool file(s) to patch
+14:46:04.550 info host completed tools discovery and integration
+14:46:04.553 ERR! host uncaught exception: No clients connected
+15:08:24.282 info extension stopping host
+15:08:24.292 info host removing cache folder: 5b121cee9e52451a4bbc7cc1f8498556
+15:08:59.746 info extension stopping host
+15:09:25.003 info extension stopping host
+15:11:41.055 info extension stopping host
+15:12:46.705 info extension stopping host
+15:14:31.586 info extension stopping host
+15:33:15.248 info extension stopping host
+15:35:00.833 info extension stopping host
+12:16:37.734 info extension stopping host
+12:17:48.668 info extension stopping host
+12:17:55.195 info extension stopping host
+12:17:55.600 info host ------------ starting ------------
+12:17:55.665 info extension host process output: port:[53457]
+12:17:55.665 info extension 
+12:17:55.848 info host worker Starting Host Worker...
+12:17:55.895 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 53457 }
+12:17:55.999 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1717928275202}
+12:17:56.022 info host starting tools discovery and integration
+12:17:56.036 info host looking for tools to patch
+12:17:56.052 info host found 0 tool file(s) to patch
+12:17:56.055 info host completed tools discovery and integration
+12:18:02.024 ERR! host uncaught exception: No clients connected
+12:21:56.903 info extension stopping host
+12:21:56.915 info host removing cache folder: 9c2608955777dfc7e9ee0e8fdf4a730b
+12:22:23.531 info extension stopping host
+12:22:55.142 info extension stopping host
+12:23:00.348 info extension stopping host
+12:23:00.784 info host ------------ starting ------------
+12:23:00.817 info extension host process output: port:[53551]
+12:23:00.817 info extension 
+12:23:00.845 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 53551 }
+12:23:00.983 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1717928580353}
+12:23:01.018 info host starting tools discovery and integration
+12:23:01.025 info host looking for tools to patch
+12:23:01.043 info host found 0 tool file(s) to patch
+12:23:01.048 info host completed tools discovery and integration
+12:23:01.064 info host worker Starting Host Worker...
+12:23:24.122 ERR! host uncaught exception: No clients connected
+12:30:22.806 ERR! host uncaught exception: No clients connected
+12:31:14.923 ERR! host uncaught exception: No clients connected
+12:32:49.060 ERR! host uncaught exception: No clients connected
+12:38:34.773 ERR! host uncaught exception: No clients connected
+12:40:30.767 info extension stopping host
+12:40:30.770 info host removing cache folder: cfd0cba044ceef19907a90b232fbafc9
+12:42:42.020 info extension stopping host
+13:01:55.092 info extension stopping host
+13:02:07.586 info extension stopping host
+13:02:35.043 info extension stopping host
+13:02:39.658 info extension stopping host
+13:02:40.263 info host ------------ starting ------------
+13:02:40.350 info extension host process output: port:[54245]
+13:02:40.350 info extension 
+13:02:40.387 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 54245 }
+13:02:40.555 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1717930959663}
+13:02:40.594 info host starting tools discovery and integration
+13:02:40.608 info host looking for tools to patch
+13:02:40.634 info host worker Starting Host Worker...
+13:02:40.642 info host found 0 tool file(s) to patch
+13:02:40.647 info host completed tools discovery and integration
+13:08:03.577 info extension stopping host
+13:08:03.584 info host removing cache folder: 71a2b1e3feed072bb3b1542bcfcbcfe3
+13:08:56.324 info extension stopping host
+13:09:17.857 info extension stopping host
+13:09:22.950 info extension stopping host
+13:09:28.025 info extension stopping host
+13:09:28.471 info host ------------ starting ------------
+13:09:28.502 info extension host process output: port:[64688]
+13:09:28.502 info extension 
+13:09:28.527 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 64688 }
+13:09:28.651 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1717931368030}
+13:09:28.677 info host starting tools discovery and integration
+13:09:28.687 info host looking for tools to patch
+13:09:28.706 info host found 0 tool file(s) to patch
+13:09:28.708 info host completed tools discovery and integration
+13:09:28.727 info host worker Starting Host Worker...
+13:13:16.582 info extension stopping host
+13:13:16.585 info host removing cache folder: 27eac8406f1aabce07e842290112188a
+13:13:49.369 info extension stopping host
+13:13:52.662 info extension stopping host
+13:13:53.167 info host ------------ starting ------------
+13:13:53.198 info extension host process output: port:[52787]
+13:13:53.198 info extension 
+13:13:53.232 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 52787 }
+13:13:53.330 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\laragon\\www\\projet_stage\\sentechs\\simulation_portage_salarial.html","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1717931632664}
+13:13:53.364 info host starting tools discovery and integration
+13:13:53.377 info host looking for tools to patch
+13:13:53.403 info host found 0 tool file(s) to patch
+13:13:53.408 info host completed tools discovery and integration
+13:13:53.424 info host worker Starting Host Worker...
+13:14:23.115 info extension stopping host
+13:14:42.178 info extension stopping host
+13:14:48.281 info extension stopping host
+10:51:11.031 info extension stopping host
+10:51:42.325 info extension stopping host
+12:14:13.886 info extension stopping host
+12:52:21.414 info extension stopping host
+12:54:56.205 info extension stopping host
+12:55:03.663 info extension stopping host
+12:55:04.077 info host ------------ starting ------------
+12:55:04.095 info host removing cache folder: 47268d5f6b2afb43f8240d9af78741c9
+12:55:04.131 info extension host process output: port:[63349]
+12:55:04.131 info extension 
+12:55:04.333 info host worker Starting Host Worker...
+12:55:04.355 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 63349 }
+12:55:04.508 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.323\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\xampp\\htdocs\\event-time\\assets\\app.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718016903667}
+12:55:04.549 info host starting tools discovery and integration
+12:55:04.567 info host looking for tools to patch
+12:55:04.984 info host found 0 tool file(s) to patch
+12:55:04.988 info host completed tools discovery and integration
+16:57:52.559 ERR! host uncaught exception: No clients connected
+12:17:15.009 info extension stopping host
+12:17:15.015 info host removing cache folder: 437c1b380c745d54499943a161b96dd4
+12:19:06.942 info extension stopping host
+01:33:52.102 info extension stopping host
+01:34:26.345 info extension stopping host
+14:18:59.462 info extension stopping host
+14:24:30.416 info extension stopping host
+14:30:43.157 info extension stopping host
+14:40:19.876 info extension stopping host
+14:40:37.770 info extension stopping host
+14:40:45.356 info extension stopping host
+14:40:45.773 info host ------------ starting ------------
+14:40:45.806 info extension host process output: port:[61802]
+14:40:45.806 info extension 
+14:40:45.839 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61802 }
+14:40:46.021 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\laragon\\www\\stage\\sentechs\\test.html","reason":"search"},{"path":"c:\\laragon\\www\\stage\\sentechs\\simulation_portage_salarial.html","reason":"search"},{"path":"c:\\laragon\\www\\stage\\sentechs\\icones\\all.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718282445360}
+14:40:46.047 info host starting tools discovery and integration
+14:40:46.051 info host worker Starting Host Worker...
+14:40:46.053 info host updating C:\Users\FITEC\.console-ninja\.bin\loader.js
+14:40:46.061 info host looking for tools to patch
+14:40:46.077 info host found 0 tool file(s) to patch
+14:40:46.080 info host completed tools discovery and integration
+14:45:55.971 info extension stopping host
+14:45:55.975 info host removing cache folder: 815d336e078fd28f9ae133a4ccd5d933
+14:49:57.947 info extension stopping host
+15:09:46.976 info extension stopping host
+15:29:17.456 info extension stopping host
+15:49:29.756 info extension stopping host
+15:50:49.674 info extension stopping host
+15:51:28.059 info extension stopping host
+15:52:31.619 info extension stopping host
+16:07:53.419 info extension stopping host
+16:18:12.839 info extension stopping host
+16:18:50.155 info extension stopping host
+16:21:12.129 info extension stopping host
+16:21:27.002 info extension stopping host
+16:21:32.097 info extension stopping host
+16:21:32.497 info host ------------ starting ------------
+16:21:32.536 info extension host process output: port:[58779]
+16:21:32.536 info extension 
+16:21:32.568 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 58779 }
+16:21:32.740 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\laragon\\www\\projet_stage_final\\sentechs\\test.html","reason":"search"},{"path":"c:\\laragon\\www\\projet_stage_final\\sentechs\\simulation_portage_salarial.html","reason":"search"},{"path":"c:\\laragon\\www\\projet_stage_final\\sentechs\\icones\\all.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718288492101}
+16:21:32.770 info host starting tools discovery and integration
+16:21:32.779 info host looking for tools to patch
+16:21:32.801 info host found 0 tool file(s) to patch
+16:21:32.804 info host completed tools discovery and integration
+16:21:32.806 info host worker Starting Host Worker...
+16:22:39.329 ERR! host uncaught exception: No clients connected
+16:22:50.958 ERR! host uncaught exception: No clients connected
+16:23:38.293 ERR! host uncaught exception: No clients connected
+16:24:18.350 info extension stopping host
+16:27:47.305 ERR! host uncaught exception: No clients connected
+16:27:56.902 ERR! host uncaught exception: No clients connected
+16:29:26.065 ERR! host uncaught exception: No clients connected
+16:29:39.841 ERR! host uncaught exception: No clients connected
+16:29:48.058 ERR! host uncaught exception: No clients connected
+16:30:04.736 ERR! host uncaught exception: No clients connected
+16:30:11.893 ERR! host uncaught exception: No clients connected
+16:36:03.175 ERR! host uncaught exception: No clients connected
+16:40:14.990 ERR! host uncaught exception: No clients connected
+16:40:26.254 ERR! host uncaught exception: No clients connected
+16:40:32.168 ERR! host uncaught exception: No clients connected
+16:40:38.129 ERR! host uncaught exception: No clients connected
+16:40:45.882 ERR! host uncaught exception: No clients connected
+16:40:55.182 ERR! host uncaught exception: No clients connected
+16:41:01.232 ERR! host uncaught exception: No clients connected
+16:41:43.307 info extension stopping host
+16:42:05.915 info extension stopping host
+16:42:05.919 info host removing cache folder: 88b86bac7098ee18ab441874ac1a077b
+16:44:17.304 info extension stopping host
+16:49:22.395 info extension stopping host
+18:02:12.420 info extension stopping host
+18:02:20.674 info extension stopping host
+18:03:45.682 info extension stopping host
+18:08:27.368 info extension stopping host
+21:57:42.531 info extension stopping host
+15:37:02.188 info extension stopping host
+15:37:23.629 info extension stopping host
+15:40:03.118 info extension stopping host
+15:40:04.587 info extension stopping host
+15:41:05.579 info extension stopping host
+15:41:35.874 info extension stopping host
+15:41:40.328 info extension stopping host
+15:41:40.749 info host ------------ starting ------------
+15:41:40.779 info extension host process output: port:[55296]
+15:41:40.779 info extension 
+15:41:40.962 info host worker Starting Host Worker...
+15:41:40.979 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 55296 }
+15:41:41.240 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\xampp\\htdocs\\projet_stage_final\\sentechs\\test.html","reason":"search"},{"path":"c:\\xampp\\htdocs\\projet_stage_final\\sentechs\\icones\\all.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.43.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1718372500332}
+15:41:41.262 info host starting tools discovery and integration
+15:41:41.275 info host looking for tools to patch
+15:41:41.290 info host found 0 tool file(s) to patch
+15:41:41.293 info host completed tools discovery and integration
+15:41:47.985 ERR! host uncaught exception: No clients connected
+15:43:33.004 info extension stopping host
+15:43:33.009 info host removing cache folder: cd14ffc6ce5579e678889bb783a277ad
+15:43:53.707 info extension stopping host
+16:12:12.784 info extension stopping host
+16:12:21.765 info extension stopping host
+17:52:43.236 info extension stopping host
+17:57:18.119 info extension stopping host
+18:26:30.791 info extension stopping host
+16:04:04.727 info extension stopping host
+16:20:03.753 info extension stopping host
+16:20:52.760 info extension stopping host
+16:22:16.757 info extension stopping host
+16:22:25.139 info extension stopping host
+16:42:06.017 info extension stopping host
+16:57:48.654 info extension stopping host
+17:49:25.577 info extension stopping host
+18:05:14.213 info extension stopping host
+18:05:15.593 info extension stopping host
+18:47:52.495 info extension stopping host
+18:52:18.095 info extension stopping host
+19:42:28.904 info extension stopping host
+19:48:37.296 info extension stopping host
+19:49:05.674 info extension stopping host
+19:49:20.193 info extension stopping host
+19:49:25.283 info extension stopping host
+19:59:37.228 info extension stopping host
+23:43:50.552 info extension stopping host
+23:48:35.483 info extension stopping host
+23:48:40.622 info extension stopping host
+23:48:41.370 info host ------------ starting ------------
+23:48:41.453 info extension host process output: port:[53445]
+23:48:41.453 info extension 
+23:48:42.041 info host worker Starting Host Worker...
+23:48:42.093 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 53445 }
+23:48:42.469 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718747320628}
+23:48:42.532 info host starting tools discovery and integration
+23:48:42.547 info host updating C:\Users\FITEC\.console-ninja\.bin\loader.js
+23:48:42.571 info host looking for tools to patch
+23:48:42.642 info host found 0 tool file(s) to patch
+23:48:42.655 info host completed tools discovery and integration
+00:01:05.163 info extension stopping host
+00:01:05.168 info host removing cache folder: 6d33703512a0c3268f7454d8a11187fb
+00:01:23.294 info extension stopping host
+00:01:28.655 info extension stopping host
+00:01:29.579 info host ------------ starting ------------
+00:01:29.640 info extension host process output: port:[62699]
+00:01:29.641 info extension 
+00:01:29.698 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 62699 }
+00:01:29.944 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718748088660}
+00:01:29.995 info host starting tools discovery and integration
+00:01:30.011 info host looking for tools to patch
+00:01:30.048 info host found 0 tool file(s) to patch
+00:01:30.054 info host completed tools discovery and integration
+00:01:30.079 info host worker Starting Host Worker...
+00:07:16.061 info extension stopping host
+00:07:16.068 info host removing cache folder: d35c425758a7e18571aa0c4a6b316cd3
+00:08:52.059 info extension stopping host
+00:20:55.357 info extension stopping host
+00:25:14.400 info extension stopping host
+00:25:19.828 info extension stopping host
+00:25:20.843 info host ------------ starting ------------
+00:25:21.232 info extension host process output: port:[57781]
+00:25:21.233 info extension 
+00:25:21.309 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 57781 }
+00:25:21.322 info host worker Starting Host Worker...
+00:25:21.543 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718749519838}
+00:25:21.589 info host starting tools discovery and integration
+00:25:21.604 info host looking for tools to patch
+00:25:21.846 info host found 1 tool file(s) to patch
+00:25:21.848 info host patching c:\users\fitec\calculatrice-react\calculatrice\calculatrice1\node_modules\vite\bin\vite.js
+00:25:21.914 info host Host's startup and patch time: 2076 ms
+00:25:21.914 info host completed tools discovery and integration
+00:25:33.383 ERR! host uncaught exception: No clients connected
+00:29:08.548 info extension stopping host
+00:29:08.553 info host removing cache folder: 913a0c700f3ece2d02cce4b059b08a10
+00:29:23.957 info extension stopping host
+00:29:28.782 info extension stopping host
+00:29:29.555 info host ------------ starting ------------
+00:29:29.611 info extension host process output: port:[57808]
+00:29:29.612 info extension 
+00:29:29.663 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 57808 }
+00:29:29.899 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.325\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718749768789}
+00:29:29.949 info host starting tools discovery and integration
+00:29:29.963 info host looking for tools to patch
+00:29:30.049 info host worker Starting Host Worker...
+00:29:30.186 info host found 1 tool file(s) to patch
+00:29:30.188 info host patching c:\users\fitec\calculatrice-react\calculatrice\calculatrice1\node_modules\vite\bin\vite.js
+00:29:30.191 info host Host's startup and patch time: 1401 ms
+00:29:30.191 info host completed tools discovery and integration
+22:16:03.636 info extension stopping host
+22:16:03.644 info host removing cache folder: 144ef74c251254e849baec0679249533
+22:20:57.630 info extension stopping host
+22:21:35.432 info extension stopping host
+22:21:58.936 info extension stopping host
+22:22:04.062 info extension stopping host
+22:22:04.454 info host ------------ starting ------------
+22:22:04.485 info extension host process output: port:[54260]
+22:22:04.485 info extension 
+22:22:04.679 info host worker Starting Host Worker...
+22:22:04.716 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 54260 }
+22:22:04.823 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718914924066}
+22:22:04.844 info host starting tools discovery and integration
+22:22:04.852 info host updating C:\Users\FITEC\.console-ninja\.bin\loader.js
+22:22:04.858 info host looking for tools to patch
+22:22:04.872 info host found 0 tool file(s) to patch
+22:22:04.874 info host completed tools discovery and integration
+22:38:51.111 info extension stopping host
+22:38:51.115 info host removing cache folder: 233276b027543302c3ed063060519cbb
+22:38:57.690 info extension stopping host
+22:39:22.779 info extension stopping host
+22:39:23.205 info host ------------ starting ------------
+22:39:23.253 info extension host process output: port:[60293]
+22:39:23.253 info extension 
+22:39:23.295 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 60293 }
+22:39:23.514 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\popper.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\less.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\vector-map\\vector.init.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\gmap\\gmapapi.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\gmap\\gmaps.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\gmap\\gmaps.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\data-table\\buttons.flash.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\chart-js\\chart.bundle.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\chartjs.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\flot-chart\\jquery.flot.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\data-table\\datatables.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\data-table\\jquery.datatables.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\data-table\\pdfmake.min.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718915962783}
+22:39:23.555 info host starting tools discovery and integration
+22:39:23.567 info host looking for tools to patch
+22:39:23.610 info host found 0 tool file(s) to patch
+22:39:23.613 info host completed tools discovery and integration
+22:39:23.617 info host worker Starting Host Worker...
+22:47:37.504 info extension stopping host
+22:47:37.507 info host removing cache folder: 63cb01deef2053199ac9ea6577da4eb1
+22:52:06.379 info extension stopping host
+22:52:09.519 info extension stopping host
+22:52:10.185 info host ------------ starting ------------
+22:52:10.225 info extension host process output: port:[60046]
+22:52:10.225 info extension 
+22:52:10.283 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 60046 }
+22:52:10.488 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\chartjs.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\popper.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\less.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\data-table\\pdfmake.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\data-table\\jquery.datatables.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\vector-map\\vector.init.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\data-table\\datatables.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\data-table\\buttons.flash.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\gmap\\gmaps.min.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\gmap\\gmapapi.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\gmap\\gmaps.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\flot-chart\\jquery.flot.js","reason":"search"},{"path":"c:\\laragon\\www\\coworking\\coworking\\work-inside\\mvc-coworking-01\\public\\assets\\js\\lib\\chart-js\\chart.bundle.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1718916729523}
+22:52:10.528 info host starting tools discovery and integration
+22:52:10.541 info host looking for tools to patch
+22:52:10.603 info host found 0 tool file(s) to patch
+22:52:10.608 info host completed tools discovery and integration
+22:52:10.623 info host worker Starting Host Worker...
+18:47:31.208 info extension stopping host
+18:50:58.828 info extension stopping host
+19:09:56.689 info extension stopping host
+19:11:07.753 info extension stopping host
+00:22:36.548 info extension stopping host
+01:13:52.699 info extension stopping host
+01:13:55.951 info extension stopping host
+01:13:56.390 info host ------------ starting ------------
+01:13:56.477 info extension host process output: port:[55400]
+01:13:56.477 info extension 
+01:13:56.759 info host worker Starting Host Worker...
+01:13:56.838 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 55400 }
+01:13:56.976 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1719702835956}
+01:13:57.003 info host starting tools discovery and integration
+01:13:57.017 info host looking for tools to patch
+01:13:57.033 info host found 0 tool file(s) to patch
+01:13:57.036 info host completed tools discovery and integration
+01:14:56.419 info host removing cache folder: 267eb8543a8b95bbecd02f409c843991
+01:20:31.203 info extension stopping host
+01:20:31.210 info host removing cache folder: 2cc6e3932d30895384c764511650ff85
+01:38:51.659 info extension stopping host
+01:38:57.954 info extension stopping host
+01:39:00.108 info extension stopping host
+01:39:00.495 info host ------------ starting ------------
+01:39:00.528 info extension host process output: port:[56073]
+01:39:00.528 info extension 
+01:39:00.555 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 56073 }
+01:39:00.674 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1719704340112}
+01:39:00.700 info host starting tools discovery and integration
+01:39:00.708 info host looking for tools to patch
+01:39:00.725 info host found 0 tool file(s) to patch
+01:39:00.730 info host completed tools discovery and integration
+01:39:00.738 info host worker Starting Host Worker...
+01:39:27.039 info extension stopping host
+01:57:53.110 info extension stopping host
+02:00:46.231 info extension stopping host
+03:31:12.171 info extension stopping host
+03:32:30.419 info extension stopping host
+03:41:36.381 info extension stopping host
+03:43:31.239 info extension stopping host
+03:43:34.231 info extension stopping host
+03:43:34.648 info host ------------ starting ------------
+03:43:34.658 info host removing cache folder: 4e800e12746fe4b5dbeed3bfb549bc57
+03:43:34.677 info extension host process output: port:[65122]
+03:43:34.677 info extension 
+03:43:34.700 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 65122 }
+03:43:34.807 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1719711814235}
+03:43:34.844 info host starting tools discovery and integration
+03:43:34.857 info host looking for tools to patch
+03:43:34.882 info host found 0 tool file(s) to patch
+03:43:34.887 info host completed tools discovery and integration
+03:43:34.920 info host worker Starting Host Worker...
+03:48:32.161 info extension stopping host
+03:48:32.166 info host removing cache folder: f6df82efecb8892abe9483fd336676c8
+03:54:26.923 info extension stopping host
+03:54:29.736 info extension stopping host
+03:54:30.190 info host ------------ starting ------------
+03:54:30.218 info extension host process output: port:[51709]
+03:54:30.218 info extension 
+03:54:30.241 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 51709 }
+03:54:30.349 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1719712469739}
+03:54:30.383 info host starting tools discovery and integration
+03:54:30.396 info host looking for tools to patch
+03:54:30.423 info host found 0 tool file(s) to patch
+03:54:30.427 info host completed tools discovery and integration
+03:54:30.459 info host worker Starting Host Worker...
+04:08:16.619 info extension stopping host
+04:08:16.623 info host removing cache folder: 31b916f251a997dc2d6227d2bd8acf82
+04:08:33.095 info extension stopping host
+04:08:56.336 info extension stopping host
+04:09:03.957 info extension stopping host
+04:09:06.473 info extension stopping host
+04:09:06.887 info host ------------ starting ------------
+04:09:06.928 info extension host process output: port:[64845]
+04:09:06.928 info extension 
+04:09:06.963 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 64845 }
+04:09:07.214 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1719713346475}
+04:09:07.253 info host starting tools discovery and integration
+04:09:07.264 info host looking for tools to patch
+04:09:07.286 info host found 0 tool file(s) to patch
+04:09:07.290 info host completed tools discovery and integration
+04:09:07.312 info host worker Starting Host Worker...
+04:26:46.239 info extension stopping host
+04:26:46.243 info host removing cache folder: ffa67e1ff25d0182a02bc407fad464dc
+04:26:52.352 info extension stopping host
+04:26:54.723 info extension stopping host
+04:26:55.153 info host ------------ starting ------------
+04:26:55.180 info extension host process output: port:[57829]
+04:26:55.180 info extension 
+04:26:55.202 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 57829 }
+04:26:55.319 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1719714414727}
+04:26:55.346 info host starting tools discovery and integration
+04:26:55.357 info host looking for tools to patch
+04:26:55.372 info host found 0 tool file(s) to patch
+04:26:55.375 info host completed tools discovery and integration
+04:26:55.403 info host worker Starting Host Worker...
+04:31:30.646 info extension stopping host
+04:31:30.649 info host removing cache folder: 7e2fb45ec87b356f5347aa3b0c4bfe1c
+04:32:55.387 info extension stopping host
+22:44:56.247 info extension stopping host
+22:45:05.363 info extension stopping host
+01:01:10.758 info extension stopping host
+01:27:15.327 info extension stopping host
+01:27:21.266 info extension stopping host
+01:27:22.121 info host ------------ starting ------------
+01:27:22.193 info extension host process output: port:[54875]
+01:27:22.193 info extension 
+01:27:22.244 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 54875 }
+01:27:22.534 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.326\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1719876441272}
+01:27:22.604 info host starting tools discovery and integration
+01:27:22.635 info host looking for tools to patch
+01:27:22.672 info host worker Starting Host Worker...
+01:27:22.674 info host found 0 tool file(s) to patch
+01:27:22.681 info host completed tools discovery and integration
+02:25:35.063 info extension stopping host
+02:25:35.066 info host removing cache folder: b03d2f3cc3296427128b58ec6cbc1ee3
+02:25:45.375 info extension stopping host
+02:26:07.679 info extension stopping host
+02:26:24.466 info extension stopping host
+03:41:50.822 info extension stopping host
+03:43:23.579 info extension stopping host
+03:43:40.525 info extension stopping host
+03:43:50.871 info extension stopping host
+03:44:07.933 info extension stopping host
+03:44:27.352 info extension stopping host
+03:55:07.302 info extension stopping host
+04:04:20.622 info extension stopping host
+04:04:49.230 info extension stopping host
+12:12:50.070 info extension stopping host
+14:08:33.473 info extension stopping host
+14:08:39.791 info extension stopping host
+14:08:40.711 info host ------------ starting ------------
+14:08:40.771 info extension host process output: port:[54106]
+14:08:40.772 info extension 
+14:08:40.893 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 54106 }
+14:08:41.326 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.327","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.327\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.327\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.327\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\laragon\\www\\projet_stage_final\\sentechs\\simulation_portage_salarial.html","reason":"search"},{"path":"c:\\laragon\\www\\projet_stage_final\\sentechs\\icones\\all.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1719922119802}
+14:08:41.405 info host starting tools discovery and integration
+14:08:41.420 info host updating C:\Users\FITEC\.console-ninja\.bin\loader.js
+14:08:41.436 info host looking for tools to patch
+14:08:41.456 info host worker Starting Host Worker...
+14:08:41.543 info host found 0 tool file(s) to patch
+14:08:41.554 info host completed tools discovery and integration
+16:30:57.891 info extension stopping host
+16:31:02.292 info extension stopping host
+16:31:02.309 info host removing cache folder: 15570941a04849a04e5e5bc7a46c3c57
+16:31:25.595 info extension stopping host
+15:13:30.688 info extension stopping host
+15:13:37.756 info extension stopping host
+15:13:38.464 info host ------------ starting ------------
+15:13:38.531 info extension host process output: port:[55532]
+15:13:38.532 info extension 
+15:13:38.584 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 55532 }
+15:13:38.956 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.328","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.328\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.328\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.328\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\xampp\\htdocs\\blog\\assets\\app.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1720530817764}
+15:13:39.051 info host starting tools discovery and integration
+15:13:39.075 info host updating C:\Users\FITEC\.console-ninja\.bin\loader.js
+15:13:39.087 info host looking for tools to patch
+15:13:39.140 info host worker Starting Host Worker...
+15:13:40.094 info host found 0 tool file(s) to patch
+15:13:40.101 info host completed tools discovery and integration
+15:33:51.389 info extension stopping host
+15:33:51.400 info host removing cache folder: c9bcbfb0efaadc011a42bcf4292e6498
+15:33:51.789 info extension stopping host
+01:01:33.524 info extension stopping host
+01:01:33.597 info extension stopping host
+02:15:32.998 info extension stopping host
+02:17:29.547 info extension stopping host
+03:31:32.715 info extension stopping host
+18:31:33.750 info extension stopping host
+09:24:53.770 info extension stopping host
+12:04:17.975 info extension stopping host
+12:04:26.367 info extension stopping host
+12:04:27.075 info host ------------ starting ------------
+12:04:27.550 info extension host process output: port:[63282]
+12:04:27.551 info extension 
+12:04:27.570 info host worker Starting Host Worker...
+12:04:28.135 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 63282 }
+12:04:28.337 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\fitec\\downloads\\api-base\\src\\app.js","reason":"search"},{"path":"c:\\users\\fitec\\downloads\\api-base\\src\\api\\controllers\\postcontroller.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724061866376}
+12:04:28.479 info host starting tools discovery and integration
+12:04:28.489 info host updating C:\Users\FITEC\.console-ninja\.bin\loader.js
+12:04:28.497 info host looking for tools to patch
+12:04:28.580 info host found 0 tool file(s) to patch
+12:04:28.642 info host completed tools discovery and integration
+12:04:31.844 ERR! host uncaught exception: No clients connected
+12:05:06.833 ERR! host uncaught exception: No clients connected
+12:05:15.037 ERR! host uncaught exception: No clients connected
+12:05:28.878 ERR! host uncaught exception: No clients connected
+12:09:47.281 ERR! host uncaught exception: No clients connected
+10:28:18.091 info extension stopping host
+10:28:18.103 info host removing cache folder: 3b7cd1c1bef412a31a6936566a75b2d4
+10:30:05.776 info extension stopping host
+10:30:09.700 info extension stopping host
+10:30:10.243 info host ------------ starting ------------
+10:30:10.291 info extension host process output: port:[62948]
+10:30:10.291 info extension 
+10:30:10.316 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 62948 }
+10:30:10.486 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\fitec\\downloads\\basic-api-with-jwt\\src\\app.js","reason":"search"},{"path":"c:\\users\\fitec\\downloads\\basic-api-with-jwt\\src\\api\\middlewares\\jwtmiddleware.js","reason":"search"},{"path":"c:\\users\\fitec\\downloads\\basic-api-with-jwt\\src\\api\\controllers\\usercontroller.js","reason":"search"},{"path":"c:\\users\\fitec\\downloads\\basic-api-with-jwt\\src\\api\\controllers\\postcontroller.js","reason":"search"},{"path":"c:\\users\\fitec\\downloads\\basic-api-with-jwt\\src\\api\\controllers\\commentcontroller.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724142609705}
+10:30:10.506 info host worker Starting Host Worker...
+10:30:10.519 info host starting tools discovery and integration
+10:30:10.530 info host looking for tools to patch
+10:30:10.581 info host found 0 tool file(s) to patch
+10:30:10.588 info host completed tools discovery and integration
+10:32:44.457 info host scheduling tools patching
+10:32:46.459 info host looking for tools to patch
+10:32:46.490 info host found 0 tool file(s) to patch
+10:40:12.456 ERR! host uncaught exception: No clients connected
+10:42:37.587 ERR! host uncaught exception: No clients connected
+10:53:26.071 ERR! host uncaught exception: No clients connected
+10:56:21.495 ERR! host uncaught exception: No clients connected
+11:00:24.443 ERR! host uncaught exception: No clients connected
+11:16:21.935 info host scheduling tools patching
+11:16:23.936 info host looking for tools to patch
+11:16:23.978 info host found 0 tool file(s) to patch
+11:23:52.334 ERR! host uncaught exception: No clients connected
+11:25:06.399 ERR! host uncaught exception: No clients connected
+11:26:22.563 ERR! host uncaught exception: No clients connected
+11:37:54.540 ERR! host uncaught exception: No clients connected
+11:47:34.406 info host scheduling tools patching
+11:47:36.407 info host looking for tools to patch
+11:47:36.432 info host found 0 tool file(s) to patch
+09:14:51.499 info extension stopping host
+09:22:37.562 info extension stopping host
+09:22:37.580 info host removing cache folder: c10298c12c30c9798145139de4834836
+11:23:36.622 info extension stopping host
+11:23:56.457 info extension stopping host
+11:25:18.628 info extension stopping host
+11:25:21.789 info extension stopping host
+11:25:22.292 info host ------------ starting ------------
+11:25:22.344 info extension host process output: port:[51417]
+11:25:22.345 info extension 
+11:25:22.624 info host worker Starting Host Worker...
+11:25:22.646 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 51417 }
+11:25:22.778 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724232321795}
+11:25:22.808 info host starting tools discovery and integration
+11:25:22.822 info host looking for tools to patch
+11:25:22.838 info host found 0 tool file(s) to patch
+11:25:22.845 info host completed tools discovery and integration
+11:25:44.473 ERR! host uncaught exception: No clients connected
+11:51:43.371 info extension stopping host
+11:51:43.376 info host removing cache folder: 72930fae54ad4ac5fadeb9e67c388e79
+12:24:51.834 info extension stopping host
+15:35:21.064 info extension stopping host
+15:35:41.136 info extension stopping host
+15:38:03.190 info extension stopping host
+15:38:27.862 info extension stopping host
+17:16:36.835 info extension stopping host
+17:17:23.666 info extension stopping host
+17:17:28.573 info extension stopping host
+17:17:29.613 info host ------------ starting ------------
+17:17:29.691 info extension host process output: port:[62325]
+17:17:29.691 info extension 
+17:17:29.766 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 62325 }
+17:17:30.173 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724253448579}
+17:17:30.275 info host starting tools discovery and integration
+17:17:30.346 info host looking for tools to patch
+17:17:30.455 info host found 0 tool file(s) to patch
+17:17:30.461 info host worker Starting Host Worker...
+17:17:30.476 info host completed tools discovery and integration
+17:39:01.622 ERR! host uncaught exception: No clients connected
+17:39:40.458 ERR! host uncaught exception: No clients connected
+17:40:14.986 ERR! host uncaught exception: No clients connected
+17:40:30.393 ERR! host uncaught exception: No clients connected
+17:41:03.964 ERR! host uncaught exception: No clients connected
+17:41:37.785 ERR! host uncaught exception: No clients connected
+17:42:08.951 ERR! host uncaught exception: No clients connected
+17:42:24.088 ERR! host uncaught exception: No clients connected
+17:42:38.517 ERR! host uncaught exception: No clients connected
+17:43:03.952 ERR! host uncaught exception: No clients connected
+23:54:48.610 info host scheduling tools patching
+23:54:50.613 info host looking for tools to patch
+23:54:50.648 info host found 0 tool file(s) to patch
+23:56:55.948 ERR! host uncaught exception: No clients connected
+00:03:04.458 ERR! host uncaught exception: No clients connected
+00:03:37.219 ERR! host uncaught exception: No clients connected
+00:03:56.203 ERR! host uncaught exception: No clients connected
+00:04:17.633 ERR! host uncaught exception: No clients connected
+00:04:52.979 ERR! host uncaught exception: No clients connected
+00:05:23.115 ERR! host uncaught exception: No clients connected
+00:05:39.547 ERR! host uncaught exception: No clients connected
+00:05:50.956 ERR! host uncaught exception: No clients connected
+00:06:11.059 ERR! host uncaught exception: No clients connected
+00:06:26.582 ERR! host uncaught exception: No clients connected
+00:24:04.673 info host scheduling tools patching
+00:24:06.676 info host looking for tools to patch
+00:24:06.710 info host found 0 tool file(s) to patch
+00:57:36.092 ERR! host uncaught exception: No clients connected
+01:01:02.446 ERR! host uncaught exception: No clients connected
+01:03:11.577 ERR! host uncaught exception: No clients connected
+01:03:33.166 ERR! host uncaught exception: No clients connected
+01:04:07.370 ERR! host uncaught exception: No clients connected
+11:30:25.009 info extension stopping host
+11:30:25.019 info host removing cache folder: 7c417727b2a35755894ed58cce59e4a2
+11:30:31.400 info extension stopping host
+12:10:07.451 info extension stopping host
+12:11:58.297 info extension stopping host
+14:18:10.561 info extension stopping host
+14:47:39.611 info extension stopping host
+14:47:46.693 info extension stopping host
+14:47:48.041 info host ------------ starting ------------
+14:47:48.142 info extension host process output: port:[50742]
+14:47:48.143 info extension 
+14:47:48.203 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 50742 }
+14:47:48.643 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\fitec\\todo-app\\src\\index.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724330866701}
+14:47:48.718 info host starting tools discovery and integration
+14:47:48.742 info host looking for tools to patch
+14:47:48.743 info host worker Starting Host Worker...
+14:47:49.441 info host found 7 tool file(s) to patch
+14:47:49.447 info host patching c:\users\fitec\todo-app\node_modules\webpack\lib\index.js
+14:47:49.448 info host patching c:\users\fitec\todo-app\node_modules\webpack\lib\webpack.js
+14:47:49.449 info host patching c:\users\fitec\todo-app\node_modules\webpack\lib\WebpackOptionsApply.js
+14:47:49.451 info host patching c:\users\fitec\todo-app\node_modules\jest\bin\jest.js
+14:47:49.452 info host patching c:\users\fitec\todo-app\node_modules\jest-runner\build\testWorker.js
+14:47:49.517 info host Host's startup and patch time: 2816 ms
+14:47:49.517 info host completed tools discovery and integration
+15:04:34.056 ERR! host uncaught exception: No clients connected
+15:07:17.583 ERR! host uncaught exception: No clients connected
+15:10:32.307 ERR! host uncaught exception: No clients connected
+15:10:55.740 ERR! host uncaught exception: No clients connected
+15:13:53.755 ERR! host uncaught exception: No clients connected
+15:20:02.407 info host scheduling tools patching
+15:20:02.508 info host scheduling tools patching
+15:20:04.509 info host looking for tools to patch
+15:20:05.208 info host found 7 tool file(s) to patch
+15:20:05.211 info host patching c:\users\fitec\todo-app\node_modules\webpack\lib\index.js
+15:20:05.212 info host patching c:\users\fitec\todo-app\node_modules\webpack\lib\webpack.js
+15:20:05.212 info host patching c:\users\fitec\todo-app\node_modules\webpack\lib\WebpackOptionsApply.js
+15:20:05.214 info host patching c:\users\fitec\todo-app\node_modules\jest\bin\jest.js
+15:20:05.214 info host patching c:\users\fitec\todo-app\node_modules\jest-runner\build\testWorker.js
+15:20:05.276 info host Host's startup and patch time: 1938575 ms
+15:20:30.128 info buildHook-61112 installing build hook for webpack at c:\users\fitec\todo-app, node v22.2.0
+15:20:30.151 info buildHook-61112 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+15:20:30.151 info buildHook-61112 running tools: webpack
+15:20:30.159 info buildHook-61112 installing fs interceptor
+15:20:32.881 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 50742 }
+15:20:33.428 info buildHook-61112 build hook already installed
+15:20:34.017 info buildHook-61112 build hook already installed
+15:20:38.234 info buildHook-61112 file processed (stat): 0 log points, error handler: false, network logging handler: false
+15:20:38.234 info buildHook-61112 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+15:20:38.235 info buildHook-61112 running tools: webpack
+15:20:38.409 info buildHook-61112 file processed (stat): 0 log points, error handler: true, network logging handler: true
+15:20:40.180 info buildHook-61112 file processed (stat): 0 log points, error handler: false, network logging handler: false
+15:20:42.100 info buildHook-61112 file processed (stat): 0 log points, error handler: false, network logging handler: false
+15:20:42.942 info buildHook-61112 file processed (stat): 0 log points, error handler: false, network logging handler: false
+15:20:53.359 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 50742 }
+15:20:53.399 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 50742 }
+15:21:03.700 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 50742 }
+15:21:03.713 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 50742 }
+15:30:30.485 info buildHook-61112 file processed (stat): 0 log points, error handler: false, network logging handler: false
+15:31:08.235 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 50742 }
+15:31:08.248 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 50742 }
+15:33:21.390 info host client disconnected: buildHook 1006
+15:33:21.391 info host client disconnected: buildHook 1006, has clients false
+16:52:31.564 info extension stopping host
+16:52:31.573 info host removing cache folder: 4884e353f10d0446854a1729efc91fcb
+16:52:31.577 ERR! host failed to delete cache folder ENOTEMPTY: directory not empty, rmdir 'C:\Users\FITEC\.console-ninja\.cache\4884e353f10d0446854a1729efc91fcb'
+16:52:31.579 WARN host unable to revert access and modified time for file c:\users\fitec\todo-app\src\components\tasklist.js
+16:53:31.201 info extension stopping host
+16:53:35.060 info extension stopping host
+16:53:36.086 info host ------------ starting ------------
+16:53:36.106 info host removing cache folder: 4884e353f10d0446854a1729efc91fcb
+16:53:36.140 info extension host process output: port:[53849]
+16:53:36.140 info extension 
+16:53:36.177 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 53849 }
+16:53:36.365 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724338415072}
+16:53:36.415 info host starting tools discovery and integration
+16:53:36.428 info host looking for tools to patch
+16:53:36.471 info host found 0 tool file(s) to patch
+16:53:36.482 info host completed tools discovery and integration
+16:53:36.506 info host worker Starting Host Worker...
+15:09:56.021 info extension stopping host
+15:09:56.072 info host removing cache folder: d5ce250a60f02aa2060c5769645a5605
+15:10:05.410 info extension stopping host
+15:10:10.574 info extension stopping host
+15:10:11.522 info host ------------ starting ------------
+15:10:11.611 info extension host process output: port:[64155]
+15:10:11.612 info extension 
+15:10:11.666 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 64155 }
+15:10:11.977 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724418610587}
+15:10:12.038 info host starting tools discovery and integration
+15:10:12.063 info host looking for tools to patch
+15:10:12.094 info host worker Starting Host Worker...
+15:10:12.131 info host found 0 tool file(s) to patch
+15:10:12.148 info host completed tools discovery and integration
+15:11:17.106 info host scheduling tools patching
+15:11:19.108 info host looking for tools to patch
+15:11:19.147 info host found 0 tool file(s) to patch
+15:16:53.850 info host scheduling tools patching
+15:16:53.964 info host scheduling tools patching
+15:16:55.965 info host looking for tools to patch
+15:16:56.026 info host found 0 tool file(s) to patch
+15:17:13.827 info host scheduling tools patching
+15:17:14.034 info host scheduling tools patching
+15:17:16.035 info host looking for tools to patch
+15:17:16.054 info host found 0 tool file(s) to patch
+15:33:20.463 ERR! host uncaught exception: No clients connected
+15:36:47.715 ERR! host uncaught exception: No clients connected
+15:37:16.981 ERR! host uncaught exception: No clients connected
+15:37:33.107 ERR! host uncaught exception: No clients connected
+15:38:26.925 ERR! host uncaught exception: No clients connected
+15:39:12.636 ERR! host uncaught exception: No clients connected
+15:41:37.818 ERR! host uncaught exception: No clients connected
+15:41:37.890 ERR! host uncaught exception: No clients connected
+15:41:37.964 ERR! host uncaught exception: No clients connected
+15:42:43.307 ERR! host uncaught exception: No clients connected
+16:11:03.357 info host scheduling tools patching
+16:11:05.369 info host looking for tools to patch
+16:11:06.063 info host found 7 tool file(s) to patch
+16:11:06.068 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\index.js
+16:11:06.068 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\webpack.js
+16:11:06.069 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+16:11:06.070 info host patching c:\laragon\www\retrometroid\node_modules\jest\bin\jest.js
+16:11:06.071 info host patching c:\laragon\www\retrometroid\node_modules\jest-runner\build\testWorker.js
+16:11:06.147 info host Host's startup and patch time: 3655560 ms
+16:11:11.818 info buildHook-73972 installing build hook for webpack at c:\laragon\www\retrometroid, node v22.2.0
+16:11:14.652 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 64155 }
+16:11:14.660 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+16:11:14.660 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+16:11:14.660 WARN host 
+16:11:14.660 WARN host Estimated release dates:
+16:11:14.660 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+16:11:14.660 WARN host   - PRO users:       priority access is available now
+16:11:15.237 info buildHook-73972 build hook already installed
+16:11:15.839 info buildHook-73972 build hook already installed
+16:12:31.895 info host client disconnected: buildHook 1006
+16:12:31.895 info host client disconnected: buildHook 1006, has clients false
+16:12:51.110 info host scheduling tools patching
+16:12:53.112 info host looking for tools to patch
+16:12:53.586 info host found 7 tool file(s) to patch
+16:12:53.589 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\index.js
+16:12:53.590 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\webpack.js
+16:12:53.590 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+16:12:53.592 info host patching c:\laragon\www\retrometroid\node_modules\jest\bin\jest.js
+16:12:53.592 info host patching c:\laragon\www\retrometroid\node_modules\jest-runner\build\testWorker.js
+16:12:53.661 info host Host's startup and patch time: 3763074 ms
+16:13:09.818 info buildHook-89728 installing build hook for webpack at c:\laragon\www\retrometroid, node v22.2.0
+16:13:12.224 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 64155 }
+16:13:12.233 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+16:13:12.233 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+16:13:12.233 WARN host 
+16:13:12.233 WARN host Estimated release dates:
+16:13:12.233 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+16:13:12.233 WARN host   - PRO users:       priority access is available now
+16:13:12.718 info buildHook-89728 build hook already installed
+16:13:13.255 info buildHook-89728 build hook already installed
+16:13:46.018 info host client disconnected: buildHook 1006
+16:13:46.019 info host client disconnected: buildHook 1006, has clients false
+16:19:00.546 info host scheduling tools patching
+16:19:02.558 info host looking for tools to patch
+16:19:02.592 info host found 0 tool file(s) to patch
+16:21:53.524 info host scheduling tools patching
+16:21:55.538 info host looking for tools to patch
+16:21:55.555 info host found 0 tool file(s) to patch
+16:28:26.092 info host scheduling tools patching
+16:28:28.108 info host looking for tools to patch
+16:28:28.123 info host found 0 tool file(s) to patch
+16:31:41.562 info host scheduling tools patching
+16:31:41.918 info host scheduling tools patching
+16:31:43.930 info host looking for tools to patch
+16:31:44.794 info host found 7 tool file(s) to patch
+16:31:44.798 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\index.js
+16:31:44.798 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\webpack.js
+16:31:44.799 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+16:31:44.801 info host patching c:\laragon\www\retrometroid\node_modules\jest\bin\jest.js
+16:31:44.801 info host patching c:\laragon\www\retrometroid\node_modules\jest-runner\build\testWorker.js
+16:31:44.871 info host Host's startup and patch time: 4894284 ms
+16:33:02.208 info host scheduling tools patching
+16:33:02.349 info host scheduling tools patching
+16:33:04.352 info host looking for tools to patch
+16:33:04.915 info host found 7 tool file(s) to patch
+16:33:04.918 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\index.js
+16:33:04.919 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\webpack.js
+16:33:04.919 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+16:33:04.920 info host patching c:\laragon\www\retrometroid\node_modules\jest\bin\jest.js
+16:33:04.921 info host patching c:\laragon\www\retrometroid\node_modules\jest-runner\build\testWorker.js
+16:33:04.991 info host Host's startup and patch time: 4974404 ms
+16:34:02.909 info host scheduling tools patching
+16:34:04.915 info host looking for tools to patch
+16:34:05.355 info host found 7 tool file(s) to patch
+16:34:05.358 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\index.js
+16:34:05.359 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\webpack.js
+16:34:05.359 info host patching c:\laragon\www\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+16:34:05.361 info host patching c:\laragon\www\retrometroid\node_modules\jest\bin\jest.js
+16:34:05.361 info host patching c:\laragon\www\retrometroid\node_modules\jest-runner\build\testWorker.js
+16:34:05.420 info host Host's startup and patch time: 5034833 ms
+16:34:11.417 info buildHook-75804 installing build hook for webpack at c:\laragon\www\retrometroid, node v22.2.0
+16:34:14.523 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 64155 }
+16:34:14.532 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+16:34:14.532 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+16:34:14.532 WARN host 
+16:34:14.532 WARN host Estimated release dates:
+16:34:14.532 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+16:34:14.532 WARN host   - PRO users:       priority access is available now
+16:35:23.786 info buildHook-75804 build hook already installed
+16:35:24.555 info buildHook-75804 build hook already installed
+16:57:38.682 info host client disconnected: buildHook 1006
+16:57:38.682 info host client disconnected: buildHook 1006, has clients false
+17:05:05.211 info extension stopping host
+17:05:05.222 info host removing cache folder: a313785f16ac63e9b31e483b7fb53584
+17:06:02.725 info extension stopping host
+17:06:08.355 info extension stopping host
+17:06:09.430 info host ------------ starting ------------
+17:06:09.500 info extension host process output: port:[53401]
+17:06:09.500 info extension 
+17:06:09.554 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 53401 }
+17:06:09.883 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724425568377}
+17:06:09.985 info host starting tools discovery and integration
+17:06:10.013 info host looking for tools to patch
+17:06:10.088 info host worker Starting Host Worker...
+17:06:10.123 info host found 0 tool file(s) to patch
+17:06:10.147 info host completed tools discovery and integration
+20:10:42.935 info extension stopping host
+20:10:42.957 info host removing cache folder: aa70ffa60d7f657b438758c842c4d071
+20:25:18.537 info extension stopping host
+20:25:24.356 info extension stopping host
+20:25:25.432 info host ------------ starting ------------
+20:25:25.527 info extension host process output: port:[57153]
+20:25:25.528 info extension 
+20:25:25.588 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+20:25:25.921 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\fitec\\retrometroid\\src\\index.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724523924364}
+20:25:25.985 info host starting tools discovery and integration
+20:25:26.005 info host looking for tools to patch
+20:25:26.062 info host worker Starting Host Worker...
+20:25:26.651 info host found 7 tool file(s) to patch
+20:25:26.657 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\index.js
+20:25:26.658 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\webpack.js
+20:25:26.659 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+20:25:26.661 info host patching c:\users\fitec\retrometroid\node_modules\jest\bin\jest.js
+20:25:26.661 info host patching c:\users\fitec\retrometroid\node_modules\jest-runner\build\testWorker.js
+20:25:26.730 info host Host's startup and patch time: 2366 ms
+20:25:26.731 info host completed tools discovery and integration
+20:26:24.779 ERR! host uncaught exception: No clients connected
+20:27:11.599 ERR! host uncaught exception: No clients connected
+20:27:21.924 ERR! host uncaught exception: No clients connected
+20:27:39.828 ERR! host uncaught exception: No clients connected
+20:28:00.966 ERR! host uncaught exception: No clients connected
+20:28:30.864 ERR! host uncaught exception: No clients connected
+20:28:51.933 ERR! host uncaught exception: No clients connected
+20:29:19.329 ERR! host uncaught exception: No clients connected
+20:29:40.195 ERR! host uncaught exception: No clients connected
+20:29:57.929 ERR! host uncaught exception: No clients connected
+20:34:22.425 ERR! host uncaught exception: No clients connected
+20:51:52.195 info host scheduling tools patching
+20:51:54.199 info host looking for tools to patch
+20:51:54.733 info host found 7 tool file(s) to patch
+20:51:54.737 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\index.js
+20:51:54.737 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\webpack.js
+20:51:54.738 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+20:51:54.739 info host patching c:\users\fitec\retrometroid\node_modules\jest\bin\jest.js
+20:51:54.739 info host patching c:\users\fitec\retrometroid\node_modules\jest-runner\build\testWorker.js
+20:51:54.800 info host Host's startup and patch time: 1590436 ms
+20:52:28.653 ERR! host uncaught exception: No clients connected
+21:01:14.399 ERR! host uncaught exception: No clients connected
+21:01:43.361 info buildHook-54956 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+21:01:45.588 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+21:01:45.596 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+21:01:45.596 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+21:01:45.596 WARN host 
+21:01:45.596 WARN host Estimated release dates:
+21:01:45.596 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+21:01:45.596 WARN host   - PRO users:       priority access is available now
+21:01:46.010 info buildHook-54956 build hook already installed
+21:01:46.476 info buildHook-54956 build hook already installed
+21:05:57.321 ERR! host uncaught exception: No clients connected
+21:41:17.692 ERR! host uncaught exception: No clients connected
+21:43:36.270 ERR! host uncaught exception: No clients connected
+21:44:01.372 ERR! host uncaught exception: No clients connected
+21:48:24.734 info host client disconnected: buildHook 1006
+21:48:24.735 info host client disconnected: buildHook 1006, has clients false
+21:48:33.791 info host scheduling tools patching
+21:48:35.798 info host looking for tools to patch
+21:48:36.235 info host found 7 tool file(s) to patch
+21:48:36.237 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\index.js
+21:48:36.237 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\webpack.js
+21:48:36.238 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+21:48:36.239 info host patching c:\users\fitec\retrometroid\node_modules\jest\bin\jest.js
+21:48:36.239 info host patching c:\users\fitec\retrometroid\node_modules\jest-runner\build\testWorker.js
+21:48:36.300 info host Host's startup and patch time: 4991936 ms
+21:48:46.110 info buildHook-94232 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+21:48:47.656 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+21:48:47.661 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+21:48:47.661 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+21:48:47.661 WARN host 
+21:48:47.661 WARN host Estimated release dates:
+21:48:47.661 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+21:48:47.661 WARN host   - PRO users:       priority access is available now
+21:48:47.945 info buildHook-94232 build hook already installed
+21:48:48.271 info buildHook-94232 build hook already installed
+21:55:57.367 info host client disconnected: buildHook 1006
+21:55:57.367 info host client disconnected: buildHook 1006, has clients false
+21:56:04.523 info buildHook-93292 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+21:56:05.914 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+21:56:05.919 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+21:56:05.919 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+21:56:05.919 WARN host 
+21:56:05.919 WARN host Estimated release dates:
+21:56:05.919 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+21:56:05.919 WARN host   - PRO users:       priority access is available now
+21:56:06.204 info buildHook-93292 build hook already installed
+21:56:06.510 info buildHook-93292 build hook already installed
+22:00:59.363 ERR! host uncaught exception: No clients connected
+22:16:52.313 info extension stopping host
+22:16:52.321 info host removing cache folder: 6ad131f368fdd12a3c81b1e1cf331c5b
+22:16:52.350 info buildHook-93292 client disconnected: 1006 
+22:16:52.351 info buildHook-93292 disconnected from host: 57153
+22:16:52.351 info buildHook-93292 disconnected from all hosts
+22:16:58.902 info extension stopping host
+22:17:04.487 info extension stopping host
+22:17:05.210 info host ------------ starting ------------
+22:17:05.270 info extension host process output: port:[57153]
+22:17:05.271 info extension 
+22:17:05.311 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+22:17:05.480 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\fitec\\retrometroid\\src\\index.js","reason":"search"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Wallpapers.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\App.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\index.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Header.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Footer.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyColor.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyAdvance.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyAdvanceSP.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\reportWebVitals.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyDMG.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\PsvitaOled.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Accessories.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Carousel.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724530624493}
+22:17:05.514 info host starting tools discovery and integration
+22:17:05.524 info host looking for tools to patch
+22:17:05.555 info host worker Starting Host Worker...
+22:17:05.947 info host found 7 tool file(s) to patch
+22:17:05.951 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\index.js
+22:17:05.952 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\webpack.js
+22:17:05.952 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+22:17:05.954 info host patching c:\users\fitec\retrometroid\node_modules\jest\bin\jest.js
+22:17:05.954 info host patching c:\users\fitec\retrometroid\node_modules\jest-runner\build\testWorker.js
+22:17:06.041 info host Host's startup and patch time: 1548 ms
+22:17:06.041 info host completed tools discovery and integration
+22:17:06.056 ERR! host uncaught exception: No clients connected
+22:17:27.002 info buildHook-52260 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+22:17:28.373 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+22:17:28.379 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+22:17:28.379 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+22:17:28.379 WARN host 
+22:17:28.379 WARN host Estimated release dates:
+22:17:28.379 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+22:17:28.379 WARN host   - PRO users:       priority access is available now
+22:17:28.658 info buildHook-52260 build hook already installed
+22:17:28.965 info buildHook-52260 build hook already installed
+22:21:34.279 info host client disconnected: buildHook 1006
+22:21:34.279 info host client disconnected: buildHook 1006, has clients false
+22:21:40.183 info buildHook-65172 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+22:21:41.674 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+22:21:41.678 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+22:21:41.678 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+22:21:41.678 WARN host 
+22:21:41.678 WARN host Estimated release dates:
+22:21:41.678 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+22:21:41.678 WARN host   - PRO users:       priority access is available now
+22:21:41.954 info buildHook-65172 build hook already installed
+22:21:42.264 info buildHook-65172 build hook already installed
+22:24:05.497 info host client disconnected: buildHook 1006
+22:24:05.497 info host client disconnected: buildHook 1006, has clients false
+22:24:11.589 info buildHook-94956 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+22:24:13.042 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+22:24:13.048 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+22:24:13.048 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+22:24:13.048 WARN host 
+22:24:13.048 WARN host Estimated release dates:
+22:24:13.048 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+22:24:13.048 WARN host   - PRO users:       priority access is available now
+22:24:13.337 info buildHook-94956 build hook already installed
+22:24:13.651 info buildHook-94956 build hook already installed
+23:39:24.011 info extension stopping host
+23:39:24.021 info host removing cache folder: aa3febd41f2d83a051db037c1aad6066
+23:39:24.046 info buildHook-94956 client disconnected: 1006 
+23:39:24.047 info buildHook-94956 disconnected from host: 57153
+23:39:24.048 info buildHook-94956 disconnected from all hosts
+23:39:37.151 info extension stopping host
+23:39:47.854 info extension stopping host
+23:39:49.080 info host ------------ starting ------------
+23:39:49.243 info extension host process output: port:[57153]
+23:39:49.243 info extension 
+23:39:49.298 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+23:39:49.888 info host worker Starting Host Worker...
+23:39:49.893 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\fitec\\retrometroid\\src\\index.js","reason":"search"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Wallpapers.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\App.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\index.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Header.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Footer.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyColor.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyAdvance.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyAdvanceSP.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\reportWebVitals.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyDMG.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\PsvitaOled.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Accessories.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Carousel.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724535587861}
+23:39:49.959 info host starting tools discovery and integration
+23:39:49.975 info host looking for tools to patch
+23:39:51.287 info host found 7 tool file(s) to patch
+23:39:51.294 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\index.js
+23:39:51.295 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\webpack.js
+23:39:51.296 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+23:39:51.298 info host patching c:\users\fitec\retrometroid\node_modules\jest\bin\jest.js
+23:39:51.299 info host patching c:\users\fitec\retrometroid\node_modules\jest-runner\build\testWorker.js
+23:39:51.361 info host Host's startup and patch time: 3500 ms
+23:39:51.362 info host completed tools discovery and integration
+23:39:51.468 ERR! host uncaught exception: No clients connected
+23:42:50.314 info buildHook-18712 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+23:42:52.662 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+23:42:52.670 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+23:42:52.670 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+23:42:52.670 WARN host 
+23:42:52.670 WARN host Estimated release dates:
+23:42:52.670 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+23:42:52.670 WARN host   - PRO users:       priority access is available now
+23:42:53.101 info buildHook-18712 build hook already installed
+23:42:53.604 info buildHook-18712 build hook already installed
+00:17:21.657 info host client disconnected: buildHook 1006
+00:17:21.658 info host client disconnected: buildHook 1006, has clients false
+00:17:31.862 info buildHook-94148 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+00:17:34.298 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+00:17:34.307 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+00:17:34.307 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+00:17:34.307 WARN host 
+00:17:34.307 WARN host Estimated release dates:
+00:17:34.307 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+00:17:34.307 WARN host   - PRO users:       priority access is available now
+00:17:34.721 info buildHook-94148 build hook already installed
+00:17:35.187 info buildHook-94148 build hook already installed
+00:18:51.157 info host client disconnected: buildHook 1006
+00:18:51.157 info host client disconnected: buildHook 1006, has clients false
+00:19:01.662 info buildHook-81504 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+00:19:04.095 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+00:19:04.102 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+00:19:04.102 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+00:19:04.103 WARN host 
+00:19:04.103 WARN host Estimated release dates:
+00:19:04.103 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+00:19:04.103 WARN host   - PRO users:       priority access is available now
+00:19:04.527 info buildHook-81504 build hook already installed
+00:19:04.976 info buildHook-81504 build hook already installed
+14:32:31.258 info extension stopping host
+15:34:04.950 info host client disconnected: buildHook 1006
+15:34:04.950 info host client disconnected: buildHook 1006, has clients false
+15:34:17.403 info buildHook-97324 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+15:34:21.927 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+15:34:22.604 info buildHook-97324 build hook already installed
+15:34:23.894 info buildHook-97324 build hook already installed
+15:34:28.041 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+15:34:28.041 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+15:34:28.041 WARN host 
+15:34:28.041 WARN host Estimated release dates:
+15:34:28.041 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+15:34:28.041 WARN host   - PRO users:       priority access is available now
+16:11:17.284 info extension stopping host
+20:03:10.757 info extension stopping host
+20:03:10.779 info host removing cache folder: 0b0f456753dcffe33f079f4f648b27a9
+20:03:10.839 info buildHook-97324 client disconnected: 1006 
+20:03:10.840 info buildHook-97324 disconnected from host: 57153
+20:03:10.841 info buildHook-97324 disconnected from all hosts
+20:03:31.271 info extension stopping host
+20:10:03.393 info buildHook-88800 installing build hook for webpack at c:\laragon\www\retromeroid, node v22.2.0
+20:10:05.157 info buildHook-88800 build hook already installed
+20:10:05.470 info buildHook-88800 build hook already installed
+20:12:04.491 info extension stopping host
+20:12:09.425 info extension stopping host
+20:23:29.417 info extension stopping host
+20:23:35.863 info extension stopping host
+20:23:40.377 info extension stopping host
+20:23:41.141 info host ------------ starting ------------
+20:23:41.202 info extension host process output: port:[57153]
+20:23:41.203 info extension 
+20:23:41.236 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+20:23:41.471 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\fitec\\retrometroid\\src\\index.js","reason":"search"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Wallpapers.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\App.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\index.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Header.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Footer.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyColor.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyAdvance.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyAdvanceSP.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\reportWebVitals.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\GameboyDMG.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\PsvitaOled.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Accessories.js","reason":"open"},{"path":"c:\\Users\\FITEC\\retrometroid\\src\\components\\Carousel.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724610220381}
+20:23:41.516 info host starting tools discovery and integration
+20:23:41.518 info host worker Starting Host Worker...
+20:23:41.531 info host looking for tools to patch
+20:23:42.019 info host found 7 tool file(s) to patch
+20:23:42.024 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\index.js
+20:23:42.024 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\webpack.js
+20:23:42.025 info host patching c:\users\fitec\retrometroid\node_modules\webpack\lib\WebpackOptionsApply.js
+20:23:42.026 info host patching c:\users\fitec\retrometroid\node_modules\jest\bin\jest.js
+20:23:42.026 info host patching c:\users\fitec\retrometroid\node_modules\jest-runner\build\testWorker.js
+20:23:42.088 info host Host's startup and patch time: 1707 ms
+20:23:42.088 info host completed tools discovery and integration
+20:23:42.096 ERR! host uncaught exception: No clients connected
+20:45:15.778 info buildHook-90868 installing build hook for webpack at c:\users\fitec\retrometroid, node v22.2.0
+20:45:18.214 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 57153 }
+20:45:18.219 WARN host ✘ webpack v5.94.0 is not yet supported in the Community edition of Console Ninja.
+20:45:18.219 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+20:45:18.219 WARN host 
+20:45:18.219 WARN host Estimated release dates:
+20:45:18.219 WARN host   - Community users: around 13th November, 2024 (subject to team availability)
+20:45:18.219 WARN host   - PRO users:       priority access is available now
+20:45:18.639 info buildHook-90868 build hook already installed
+20:45:19.254 info buildHook-90868 build hook already installed
+23:25:18.273 info host client disconnected: buildHook 1006
+23:25:18.273 info host client disconnected: buildHook 1006, has clients false
+23:30:39.583 info extension stopping host
+23:30:39.598 info host removing cache folder: 9f45038bc1eea209276c33a67d5e5b32
+23:30:44.228 info extension stopping host
+00:50:49.834 info extension stopping host
+11:53:31.118 info extension stopping host
+12:03:19.136 info extension stopping host
+12:05:11.833 info extension stopping host
+09:04:25.529 info extension stopping host
+17:27:32.291 info extension stopping host
+17:27:33.223 info host ------------ starting ------------
+17:27:33.332 info extension host process output: port:[62282]
+17:27:33.332 info extension 
+17:27:33.744 info host worker Starting Host Worker...
+17:27:33.909 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 62282 }
+17:27:34.180 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.350\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1724772452299}
+17:27:34.242 info host starting tools discovery and integration
+17:27:34.276 info host looking for tools to patch
+17:27:34.341 info host found 0 tool file(s) to patch
+17:27:34.353 info host completed tools discovery and integration
+17:29:54.062 info extension stopping host
+17:29:56.192 info extension stopping host
+17:29:56.202 info host removing cache folder: 093c0d8f89c85b3ee307288ba9396f74
+12:03:34.248 info extension stopping host
+16:21:16.336 info extension stopping host
+09:27:22.906 info extension stopping host
+13:59:51.046 info extension stopping host
+14:00:48.734 info extension stopping host
+14:03:26.602 info extension stopping host
+14:03:45.201 info extension stopping host
+14:04:04.673 info extension stopping host
+14:24:33.093 info extension stopping host
+14:28:06.593 info extension stopping host
+14:32:47.621 info extension stopping host
+14:33:38.658 info extension stopping host
+09:18:18.497 info extension stopping host
+09:19:39.500 info extension stopping host
+10:58:35.306 info extension stopping host
+11:05:40.585 info extension stopping host
+11:06:13.689 info extension stopping host
+20:19:51.788 info extension stopping host
+20:19:52.201 info host ------------ starting ------------
+20:19:52.383 info extension host process output: port:[59218]
+20:19:52.383 info extension 
+20:19:52.416 info host worker Starting Host Worker...
+20:19:52.672 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 59218 }
+20:19:52.811 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1726337991791}
+20:19:52.846 info host starting tools discovery and integration
+20:19:52.853 info host updating C:\Users\FITEC\.console-ninja\.bin\loader.js
+20:19:52.861 info host looking for tools to patch
+20:19:53.104 info host found 3 tool file(s) to patch
+20:19:53.107 info host patching c:\users\fitec\portfolio\node_modules\next\dist\compiled\webpack\bundle5.js
+20:19:53.108 info host patching c:\users\fitec\portfolio\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+20:19:53.207 info host Host's startup and patch time: 1416 ms
+20:19:53.208 info host completed tools discovery and integration
+20:22:09.595 info host scheduling tools patching
+20:22:11.598 info host looking for tools to patch
+20:22:11.751 info host found 3 tool file(s) to patch
+20:22:11.754 info host patching c:\users\fitec\portfolio\node_modules\next\dist\compiled\webpack\bundle5.js
+20:22:11.754 info host patching c:\users\fitec\portfolio\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+20:22:11.842 info host Host's startup and patch time: 140051 ms
+20:24:19.669 ERR! host uncaught exception: No clients connected
+20:58:45.392 ERR! host uncaught exception: No clients connected
+00:58:04.941 info extension stopping host
+00:58:04.978 info host removing cache folder: aad509a1be17a028b5f590b37838fba3
+01:04:24.982 info extension stopping host
+01:04:25.985 info host ------------ starting ------------
+01:04:26.044 info extension host process output: port:[59218]
+01:04:26.044 info extension 
+01:04:26.093 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 59218 }
+01:04:26.326 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1726355064995}
+01:04:26.387 info host starting tools discovery and integration
+01:04:26.419 info host looking for tools to patch
+01:04:26.526 info host worker Starting Host Worker...
+01:04:26.806 info host found 3 tool file(s) to patch
+01:04:26.814 info host patching c:\users\fitec\portfolio\node_modules\next\dist\compiled\webpack\bundle5.js
+01:04:26.815 info host patching c:\users\fitec\portfolio\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+01:04:26.984 info host Host's startup and patch time: 1989 ms
+01:04:26.988 info host completed tools discovery and integration
+01:04:54.633 ERR! host uncaught exception: No clients connected
+01:07:43.840 ERR! host uncaught exception: No clients connected
+01:08:08.600 ERR! host uncaught exception: No clients connected
+01:08:25.233 ERR! host uncaught exception: No clients connected
+01:08:44.193 ERR! host uncaught exception: No clients connected
+01:08:54.901 ERR! host uncaught exception: No clients connected
+01:13:46.157 ERR! host uncaught exception: No clients connected
+01:14:33.245 ERR! host uncaught exception: No clients connected
+01:14:45.601 ERR! host uncaught exception: No clients connected
+01:14:54.898 ERR! host uncaught exception: No clients connected
+01:15:04.402 ERR! host uncaught exception: No clients connected
+01:15:13.157 ERR! host uncaught exception: No clients connected
+01:17:13.257 ERR! host uncaught exception: No clients connected
+01:17:35.218 ERR! host uncaught exception: No clients connected
+01:18:10.674 info buildHook-26228 installing build hook for next.js at c:\users\fitec\portfolio, node v22.2.0
+01:18:10.811 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59218 }
+01:18:10.817 WARN host ✘ next.js v14.2.11 is not yet supported in the Community edition of Console Ninja.
+01:18:10.818 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+01:18:10.818 WARN host 
+01:18:10.818 WARN host Estimated release dates:
+01:18:10.818 WARN host   - Community users: around 7th December, 2024 (subject to team availability)
+01:18:10.818 WARN host   - PRO users:       priority access is available now
+01:18:11.801 info buildHook-24000 installing build hook for next.js at c:\users\fitec\portfolio, node v22.2.0
+01:18:11.938 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59218 }
+01:18:11.971 WARN host ✘ next.js v14.2.11 is not yet supported in the Community edition of Console Ninja.
+01:18:11.971 WARN host We are working hard on it for you https://tinyurl.com/3h9mtwra.
+01:18:11.971 WARN host 
+01:18:11.971 WARN host Estimated release dates:
+01:18:11.971 WARN host   - Community users: around 7th December, 2024 (subject to team availability)
+01:18:11.972 WARN host   - PRO users:       priority access is available now
+01:21:10.328 info host client disconnected: buildHook 1006
+01:21:10.328 info host client disconnected: buildHook 1006, has clients true
+01:21:10.329 info host client disconnected: buildHook 1006
+01:21:10.329 info host client disconnected: buildHook 1006, has clients false
+01:22:22.136 info host scheduling tools patching
+01:22:24.139 info host looking for tools to patch
+01:22:24.404 info host found 3 tool file(s) to patch
+01:22:24.409 info host patching c:\users\fitec\portfolio\node_modules\next\dist\compiled\webpack\bundle5.js
+01:22:24.409 info host patching c:\users\fitec\portfolio\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+01:22:24.590 info host Host's startup and patch time: 1079592 ms
+01:24:41.901 info buildHook-16668 installing build hook for next.js at c:\users\fitec\portfolio, node v22.2.0
+01:24:41.923 info buildHook-16668 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+01:24:41.923 info buildHook-16668 running tools: next.js
+01:24:41.934 info buildHook-16668 installing fs interceptor
+01:24:42.057 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59218 }
+01:24:42.067 info buildHook-16668 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+01:24:42.068 info buildHook-16668 running tools: next.js
+01:24:43.330 info buildHook-28412 installing build hook for next.js at c:\users\fitec\portfolio, node v22.2.0
+01:24:43.354 info buildHook-28412 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+01:24:43.354 info buildHook-28412 running tools: next.js
+01:24:43.358 info buildHook-28412 installing fs interceptor
+01:24:43.478 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59218 }
+01:24:43.496 info buildHook-28412 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+01:24:43.496 info buildHook-28412 running tools: next.js
+01:24:46.076 info buildHook-28412 file processed (stat): 0 log points, error handler: false, network logging handler: false
+01:26:15.347 ERR! host uncaught exception: No clients connected
+01:26:15.427 info buildHook-16668 file processed (stat): 0 log points, error handler: false, network logging handler: false
+01:29:19.014 info host client disconnected: buildHook 1006
+01:29:19.014 info host client disconnected: buildHook 1006, has clients true
+01:29:19.015 info host client disconnected: buildHook 1006
+01:29:19.015 info host client disconnected: buildHook 1006, has clients false
+01:29:25.362 info buildHook-8208 installing build hook for next.js at c:\users\fitec\portfolio, node v22.2.0
+01:29:25.377 info buildHook-8208 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+01:29:25.378 info buildHook-8208 running tools: next.js
+01:29:25.383 info buildHook-8208 installing fs interceptor
+01:29:25.503 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59218 }
+01:29:25.509 info buildHook-8208 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+01:29:25.510 info buildHook-8208 running tools: next.js
+01:29:26.715 info buildHook-24088 installing build hook for next.js at c:\users\fitec\portfolio, node v22.2.0
+01:29:26.738 info buildHook-24088 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+01:29:26.738 info buildHook-24088 running tools: next.js
+01:29:26.742 info buildHook-24088 installing fs interceptor
+01:29:26.839 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59218 }
+01:29:26.853 info buildHook-24088 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+01:29:26.853 info buildHook-24088 running tools: next.js
+01:29:29.578 info buildHook-24088 file processed (stat): 0 log points, error handler: false, network logging handler: false
+01:31:41.937 ERR! host uncaught exception: No clients connected
+01:31:42.052 info buildHook-8208 file processed (stat): 0 log points, error handler: false, network logging handler: false
+01:31:54.039 info buildHook-24088 file processed (stat): 0 log points, error handler: false, network logging handler: false
+01:31:56.531 info buildHook-24088 file processed (stat): 0 log points, error handler: false, network logging handler: false
+01:31:58.285 info buildHook-24088 file processed (stat): 0 log points, error handler: false, network logging handler: false
+01:32:03.269 info buildHook-24088 file processed (stat): 0 log points, error handler: false, network logging handler: false
+02:22:53.948 info extension stopping host
+02:22:54.731 info host ------------ starting ------------
+02:22:54.794 info extension host process output: port:[59218]
+02:22:54.795 info extension 
+02:22:54.892 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 59218 }
+02:22:55.307 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\FITEC\\portfolio\\pages\\app.tsx","reason":"open"},{"path":"c:\\Users\\FITEC\\portfolio\\components\\Header.tsx","reason":"open"},{"path":"c:\\Users\\FITEC\\portfolio\\pages\\index.tsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1726359773953}
+02:22:55.316 info host worker Starting Host Worker...
+02:22:55.353 info host starting tools discovery and integration
+02:22:55.371 info host looking for tools to patch
+02:22:55.802 info host found 3 tool file(s) to patch
+02:22:55.807 info host patching c:\users\fitec\portfolio\node_modules\next\dist\compiled\webpack\bundle5.js
+02:22:55.808 info host patching c:\users\fitec\portfolio\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+02:22:55.898 info host Host's startup and patch time: 1945 ms
+02:22:55.899 info host completed tools discovery and integration
+02:22:55.907 info host removing cache folder: 3fccc2f14117ce9a75b59da5f3c03b67
+02:22:55.909 ERR! host uncaught exception: No clients connected
+02:22:58.022 info extension stopping host
+02:23:06.847 info extension stopping host
+02:23:09.430 info extension stopping host
+02:23:09.819 info host ------------ starting ------------
+02:23:09.847 info extension host process output: port:[62363]
+02:23:09.847 info extension 
+02:23:09.875 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 62363 }
+02:23:10.048 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.358\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1726359789433}
+02:23:10.085 info host starting tools discovery and integration
+02:23:10.093 info host looking for tools to patch
+02:23:10.109 info host found 0 tool file(s) to patch
+02:23:10.113 info host worker Starting Host Worker...
+02:23:10.115 info host completed tools discovery and integration
+02:23:21.612 ERR! host uncaught exception: No clients connected
+02:24:09.878 info host removing cache folder: 839cb05646f21c4e1fd9861655f401c7
+02:27:28.043 info extension stopping host
+02:27:28.048 info host removing cache folder: 3295adf6837d0c74475051a23c401d26
+10:13:01.998 info extension stopping host
+10:13:07.781 info extension stopping host
+10:13:08.644 info host ------------ starting ------------
+10:13:08.713 info extension host process output: port:[65404]
+10:13:08.713 info extension 
+10:13:09.167 info host worker Starting Host Worker...
+10:13:09.218 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 65404 }
+10:13:09.443 info host starting host: {"extensionFolder":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.359","runtimeHookFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.359\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.359\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\FITEC\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.359\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","HPG5-SSD-105","192.168.1.69"],"host":"127.0.0.1","forcedStart":false,"startTime":1726474387789}
+10:13:09.503 info host starting tools discovery and integration
+10:13:09.514 info host updating C:\Users\FITEC\.console-ninja\.bin\loader.js
+10:13:09.523 info host looking for tools to patch
+10:13:09.550 info host found 0 tool file(s) to patch
+10:13:09.557 info host completed tools discovery and integration
+10:13:17.906 info extension stopping host
+10:13:54.627 info extension stopping host
+10:22:41.704 info extension stopping host
+10:28:03.092 info extension stopping host
+10:31:19.828 info extension stopping host
+10:32:44.707 info extension stopping host
+10:39:30.811 info extension stopping host
+10:40:56.572 info extension stopping host
