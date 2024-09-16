@@ -1,1 +1,13 @@
-GET http://localhost:3000/books/1
+
+DELETE http://localhost:3000/books/1
+###
+GET http://localhost:3000/book
+
+###
+POST http://localhost:3000/api/pretenders
+Content-Type: application/json
+
+{
+    "email":"mrassoul159@gmail.com",
+    "password":"mouhamed"
+}

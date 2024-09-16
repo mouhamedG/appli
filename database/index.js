@@ -1,7 +1,6 @@
 const path = require("path");
 const { Sequelize } = require("sequelize");
 const envPath = path.resolve("././", ".env");
-console.log(envPath)
 require("dotenv").config({
     path: envPath 
 })
@@ -27,7 +26,7 @@ class Database {
  
 
 }
-
+/* 
 (async() => {
     try {
         await Database.getInstance().authenticate()
@@ -38,6 +37,6 @@ class Database {
 
 
 })()
-
+ */
 
 module.exports = Database
