@@ -1,35 +1,37 @@
-const Pretender = require("./models/Pretender");
-const bcrypt = require("bcrypt");
+const jwt = require('jsonwebtoken');
+const bcrypt = require('bcrypt');
+const Pretender = require('./models/Pretender');
+const authMiddleware = require('./middlewares/authMiddleware'); // Import du middleware d'authentification
 
 class PretenderController {
 
     // Créer un nouveau "pretender"
     static async createOne(req, res, next) {
-        // Vérifie que les champs email et password sont présents
         const { email, password } = req.body;
         if (!(email && password)) {
-            return next(); // Si l'un des champs est manquant, passer au middleware suivant
+            return next();
         }
 
-        // Vérifie si un utilisateur avec cet email existe déjà
         const pretenderExists = await Pretender.findOne({ where: { email } });
         if (pretenderExists) {
-            return next(); // Si l'utilisateur existe déjà, passer au middleware suivant
+            return next();
         }
 
-        // Hache le mot de passe
         const hashedPassword = bcrypt.hashSync(password, 10);
+        const newPretender = await Pretender.create({ email, password: hashedPassword });
 
-        // Crée un nouveau "pretender" avec l'email et le mot de passe haché
-        const newPretender = await Pretender.create({
-            email,
-            password: hashedPassword
-        });
+        // Générer un token JWT contenant l'email
+        const token = jwt.sign({ email: newPretender.email }, 'secret_key', { expiresIn: '1h' });
 
-        // Renvoie une réponse avec le nouvel utilisateur créé
-        return res.status(201).json(newPretender);
+        return res.status(201).json({ pretender: newPretender, token });
     }
 
+    // Obtenir un "pretender" par ID (protégé par le middleware d'authentification)
+    static async getOneById(req, res) {
+        const pretender = await Pretender.findByPk(req.params.id);
+        if (!pretender) return res.status(404).json({ message: 'Pretender non trouvé' });
+        return res.json(pretender);
+    }
     // Obtenir tous les "pretenders" (CRUD)
     static async getAll(req, res) {
         const pretenders = await Pretender.findAll(); // Récupère tous les enregistrements
